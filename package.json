@@ -1,0 +1,23 @@
+{
+  "name": "codingchallenge",
+  "version": "1.0.0",
+  "description": "AlsoEnergy Coding Challenge",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderela/html-css-js-challenge-mar-28-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderela/html-css-js-challenge-mar-28-2019/issues"
+  },
+  "homepage": "https://github.com/alexanderela/html-css-js-challenge-mar-28-2019#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "parking-garage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parking-garage.js",
+  "directories": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0",
+    "mocha": "^6.0.2",
+    "uuidv4": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
